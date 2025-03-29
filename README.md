@@ -26,7 +26,7 @@ Este projeto é um jogo simples de adivinhar um número secreto, onde o jogador 
 
 <h3>Pré Requisitos</h3>
 
-- [VISUAL](https://github.com/)
+- [VISUAL STUDIO CODE](https://github.com/)
 - [CSS](https://github.com)
 - [HTML](https://github.com)
 - [FRAMEWORK](https://github.com)
